@@ -1,0 +1,68 @@
+
+{
+  "app": {
+    "name": "Endecoder",
+    "tagline": "Base64 Tool"
+  },
+  "header": {
+    "history": "History"
+  },
+  "encode": {
+    "title": "Base64 Encoder/Decoder",
+    "subtitle": "A privacy-first tool for text and images",
+    "tabs": {
+      "textEncode": "Text Encode",
+      "textDecode": "Text Decode",
+      "imageEncode": "Image Encode",
+      "imageDecode": "Image Decode"
+    }
+  },
+  "textEncoder": {
+    "input": "Text to Encode",
+    "output": "Encoded Result",
+    "placeholder": "Enter text to encode...",
+    "resultPlaceholder": "Encoded Base64 will appear here...",
+    "encodeButton": "Encode"
+  },
+  "textDecoder": {
+    "input": "Base64 to Decode",
+    "output": "Decoded Result",
+    "placeholder": "Enter Base64 to decode...",
+    "resultPlaceholder": "Decoded text will appear here...",
+    "decodeButton": "Decode"
+  },
+  "imageEncoder": {
+    "input": "Image to Encode",
+    "output": "Base64 Output",
+    "selectImage": "Select Image",
+    "dropImage": "Drag and drop an image or click to select",
+    "resultPlaceholder": "Encoded Base64 will appear here..."
+  },
+  "imageDecoder": {
+    "input": "Base64 to Decode",
+    "output": "Decoded Image",
+    "uploadText": "Upload Text File",
+    "dropText": "Drop text file with Base64 data",
+    "placeholder": "Enter Base64 image data or drop a text file...",
+    "noValidImage": "No valid image data found",
+    "enterValidData": "Enter valid Base64 data to see decoded image"
+  },
+  "common": {
+    "paste": "Paste",
+    "copy": "Copy",
+    "download": "Download",
+    "upload": "Upload File",
+    "file": "File"
+  },
+  "history": {
+    "title": "History",
+    "clearAll": "Clear All",
+    "search": "Search history...",
+    "noHistory": "No history yet",
+    "noResults": "No results found",
+    "input": "Input:",
+    "output": "Output:",
+    "encoded": "Encoded",
+    "decoded": "Decoded"
+  }
+}
